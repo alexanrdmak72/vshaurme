@@ -40,7 +40,7 @@ Line14deleted
 
 Line15deleted
   -  
-Проект работает на [Django 1.11.1](https://www.djangoproject.comm). 
+Проект работает на [Django 1.11.1](https://www.djangoproject.com). 
 Line16deleted
   -  
 Сейчас очень нужна помощь с моделированием системы, почитать о котором можно [здесь](https://docs.djangoproject.com/en/1.11/intro/tutorial02/#craeting-models).
